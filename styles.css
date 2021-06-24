@@ -66,7 +66,7 @@ img{
 	width: 300px;
 	height: 400px;
 	display: inline;
-	margin-left: 25%;
+	margin-left: 650px;
 	transition: width 1s, height 1s;
 }
 /*make sihan's images 1.5x their original size when hovered over*/
@@ -77,7 +77,7 @@ img{
 /*make the valorant agents on the same line spaced apart*/
 .valorant-agent{
 	display: inline;
-	margin-left: 23%;
+	margin-left: 600px;
 }
 /*make the valorant agents 1.5x their original size when hovered over*/
 .valorant-agent:hover{
@@ -89,7 +89,7 @@ img{
 	width: 300px;
 	height: 300px;
 	display: inline;
-	margin-left: 16%;
+	margin-left: 400px;
 	transition: width 1s, height 1s;
 }
 /*make the league of legends champions 1.5x their original size when hovered over*/
@@ -101,19 +101,19 @@ img{
 .genshin-character{
 	width: 250px;
 	display: inline;
-	margin-left: 8%;
+	margin-left: 200px;
 	transition: width 1s, height 1s;
 }
 #razor{
 	width: 500px;
 	display: inline;
-	margin-left: 8%;
+	margin-left: 200px;
 	transition: width 1s, height 1s;
 }
 #zhongli{
 	width: 275px;
 	display: inline;
-	margin-left: 8%;
+	margin-left: 200px;
 	transition: width 1s, height 1s;
 }
 /*make the genshin impact characters 1.5x their original size when hovered over*/
@@ -157,7 +157,7 @@ img{
     width: 300px;
 	height: 500px;
 	display: inline;
-	margin-left: 10%;
+	margin-left: 250px;
 }
 /*make the table have a border and centered*/
 table, th, td{
